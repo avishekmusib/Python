@@ -1,0 +1,8 @@
+s=("avi#@2004")
+#print(len(s))
+#print(s[0])
+#print(s[2:7])
+#print(s[:7])
+#print(s[2:])
+#print(s[-7:-2])
+print(s[-9:-6])
